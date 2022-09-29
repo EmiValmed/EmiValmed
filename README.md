@@ -1,3 +1,6 @@
+
+![EmiValmed](https://github.com/EmiValmed/EmiValmed/blob/2022-04-07 (1).jpeg)
+
 ### Hi there 👋
 
 <!--
@@ -13,4 +16,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Hi there! 👋
+
+My name is Emixi, I am a hydrologist currently working as a Machine Learning Engineer. I am passionate about photography and data-driven technologies. In my spare time you will probably find me doing sports,  or building fun (and partially useless) software programs.
+
+I was born in Do, and I work and live in Ca. 
 -->
+
+
+
+
+
