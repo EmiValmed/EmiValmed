@@ -1,5 +1,5 @@
 
-![EmiValmed](https://github.com/EmiValmed/EmiValmed/blob/0b35982b38efafb159429073ae3defcde38d1e46/2022-04-07%20(1).jpeg)
+![EmiValmed](image_6487327.JPG)
 
 ### Hi there 👋😃
 
